@@ -1,4 +1,6 @@
 # addressBook
+//You will implement an online address book and compare the use of a binary search tree and a bucket hash structure by implementing both for the design of the address book.
+
 A.  Develop a hash table data structure from the ground up that does not use any of the data structure classes and that includes the following:
  
 
